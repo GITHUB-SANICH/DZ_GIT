@@ -1,0 +1,15 @@
+DZ_#1/
+DZ_#2/
+DZ_#3/
+DZ_#4/
+DZ_#5/
+DZ_#6/
+chernovik.php
+*.txt
+
+#Исключения по ДЗ
+*.sass
+bin/
+admin/
+config/
+  
